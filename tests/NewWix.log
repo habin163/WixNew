@@ -137,3 +137,454 @@
 11/02/2017 05:49:38 PM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
 11/02/2017 05:49:46 PM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
 11/02/2017 05:49:46 PM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:09:22 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:09:22 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:09:23 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:09:28 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:09:28 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:09:38 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:09:41 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:09:41 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="dbbd551c-1869-7c4e-81b6-51987ae7d17a", element="78f630ee-242b-924e-b7d4-7c963574e1b1")>
+11/07/2017 12:09:41 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:09:41 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:09:49 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:09:49 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:18:55 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:18:55 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:18:57 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:19:02 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:19:02 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:19:12 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:19:12 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:19:12 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5e44ea07-2247-2c45-9917-3e857c44924e", element="27297ea3-8297-d34c-ad0d-a5e48503947a")>
+11/07/2017 12:19:12 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:19:12 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:19:20 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:19:20 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:20:05 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:20:05 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:20:07 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:20:12 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:20:12 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:20:22 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:20:22 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:20:22 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c2bfa100-1067-4f4f-9252-0f9fe0b42f90", element="7ef17602-c778-4a4c-b574-0dd6eb0ce003")>
+11/07/2017 12:20:23 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:20:23 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:20:31 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:20:31 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:20:31 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c2bfa100-1067-4f4f-9252-0f9fe0b42f90", element="4a78e34a-a5e3-6f4b-9b61-5a6da6c7890e")>
+11/07/2017 12:20:31 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:20:31 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c2bfa100-1067-4f4f-9252-0f9fe0b42f90", element="97b5e305-9e43-6b43-b487-bf6f0838e568")>
+11/07/2017 12:20:32 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:20:37 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:20:37 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:20:37 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:20:37 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:20:37 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:20:37 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c2bfa100-1067-4f4f-9252-0f9fe0b42f90", element="7565f2db-7829-464c-ad67-ad6c67243638")>
+11/07/2017 12:20:37 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:20:37 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:20:37 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c2bfa100-1067-4f4f-9252-0f9fe0b42f90", element="81680c01-6fd0-ec47-8296-1fb9e36b1377")>
+11/07/2017 12:20:37 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:20:37 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 12:20:37 AM - BlogPage - INFO: Element not found with locator:  locatorType: 
+11/07/2017 12:20:37 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 12:20:37 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:28:26 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:28:26 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:28:27 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:28:32 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:28:32 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:28:42 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:28:42 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:28:42 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ad28403b-df3e-424f-a6de-9e2c28f626dc", element="1913206d-52c0-bf46-a970-0b9fcf0c0f3a")>
+11/07/2017 12:28:43 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:28:43 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:28:51 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:28:51 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:28:51 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ad28403b-df3e-424f-a6de-9e2c28f626dc", element="104b8832-8a2f-f745-8d8c-fc172e4f260d")>
+11/07/2017 12:28:51 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:28:51 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ad28403b-df3e-424f-a6de-9e2c28f626dc", element="a7e7cdbd-9039-d240-858a-9a3cf28bfe43")>
+11/07/2017 12:28:51 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:28:56 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:28:56 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:28:56 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:28:56 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:28:56 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:28:56 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ad28403b-df3e-424f-a6de-9e2c28f626dc", element="e5d3be51-e4c8-1848-a1d5-94a9680fc84b")>
+11/07/2017 12:28:56 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:28:56 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:28:56 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ad28403b-df3e-424f-a6de-9e2c28f626dc", element="e8628318-6dc2-8047-9c74-2b2f2479ddbc")>
+11/07/2017 12:28:56 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:28:56 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 12:28:56 AM - BlogPage - INFO: Element not found with locator:  locatorType: 
+11/07/2017 12:28:56 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 12:28:56 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:31:03 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:31:03 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:31:04 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:31:09 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:31:09 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:31:19 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:31:19 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:31:19 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2d157e44-7421-7544-87db-6c016a64d126", element="9f51cd7a-dbaa-d146-bf0c-5d11f3cb7588")>
+11/07/2017 12:31:20 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:31:20 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:31:28 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:31:28 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:31:28 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2d157e44-7421-7544-87db-6c016a64d126", element="f19c178b-2cb9-6e47-bf6f-7024e8862a05")>
+11/07/2017 12:31:28 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:31:28 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2d157e44-7421-7544-87db-6c016a64d126", element="73acee0a-9dc1-d543-9daf-629fc246d093")>
+11/07/2017 12:31:28 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:31:33 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:31:33 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:31:33 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:31:33 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:31:33 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:31:33 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2d157e44-7421-7544-87db-6c016a64d126", element="6e94b781-3f37-1444-9d22-343e6334933b")>
+11/07/2017 12:31:33 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:31:33 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:31:33 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="2d157e44-7421-7544-87db-6c016a64d126", element="4497a838-f0a3-b941-839c-08c1aa1220d6")>
+11/07/2017 12:31:33 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:31:33 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:31:33 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : .//button[contains(text(),'Post')] to be clickable
+11/07/2017 12:31:33 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:31:33 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 12:31:33 AM - BlogPage - INFO: Element not found with locator:  locatorType: 
+11/07/2017 12:31:33 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 12:31:33 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:32:44 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:32:44 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:32:46 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:32:51 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:32:51 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:33:01 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:33:01 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:33:01 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="38aac230-cbcf-9f45-a21f-13266e05d0f8", element="2e6739d7-f1cd-1f43-a791-a84c8f386483")>
+11/07/2017 12:33:01 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:33:01 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:33:09 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:33:09 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:33:09 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="38aac230-cbcf-9f45-a21f-13266e05d0f8", element="62d1845f-ab7c-2d40-b629-97d2b5e41637")>
+11/07/2017 12:33:10 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:33:10 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="38aac230-cbcf-9f45-a21f-13266e05d0f8", element="794b8c72-d201-3248-8194-6970bbfd782b")>
+11/07/2017 12:33:10 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:33:15 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:33:15 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:33:15 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:33:15 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:33:15 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:33:15 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="38aac230-cbcf-9f45-a21f-13266e05d0f8", element="617b6cb3-3ef5-1b4a-b851-cdd6c519f7ce")>
+11/07/2017 12:33:15 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:33:15 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:33:15 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="38aac230-cbcf-9f45-a21f-13266e05d0f8", element="5fb44946-6214-704d-9f45-4f4cfe523bf7")>
+11/07/2017 12:33:15 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:33:15 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 12:33:15 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="38aac230-cbcf-9f45-a21f-13266e05d0f8", element="d077c5ac-44a3-e948-88b6-f754edeecfce")>
+11/07/2017 12:33:18 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : .//button[contains(text(),'Post')] to be clickable
+11/07/2017 12:33:18 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:33:18 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 12:33:18 AM - BlogPage - INFO: Element not found with locator:  locatorType: 
+11/07/2017 12:33:18 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 12:33:18 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:38:33 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:38:33 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:38:35 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:38:40 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:38:40 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:38:50 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:38:50 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:38:50 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c0020c0a-ae1b-1b48-b466-f63a66893dc7", element="bbb8b8c7-462a-7549-863c-125a530a0d48")>
+11/07/2017 12:38:51 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:38:51 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:38:59 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:38:59 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:38:59 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c0020c0a-ae1b-1b48-b466-f63a66893dc7", element="5396f311-01f8-c44b-b146-2a179344f690")>
+11/07/2017 12:38:59 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:38:59 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c0020c0a-ae1b-1b48-b466-f63a66893dc7", element="03bd98b9-4cca-0549-b29a-33a6d9dae860")>
+11/07/2017 12:39:00 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:39:05 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:39:05 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:39:05 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:39:05 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:39:05 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:39:05 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c0020c0a-ae1b-1b48-b466-f63a66893dc7", element="18ee66b2-e2a9-2143-876a-e4a50f5cc316")>
+11/07/2017 12:39:05 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:39:05 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:39:05 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c0020c0a-ae1b-1b48-b466-f63a66893dc7", element="f4b85a80-f512-4243-812e-424551d0f93f")>
+11/07/2017 12:39:05 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:39:05 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 12:39:05 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c0020c0a-ae1b-1b48-b466-f63a66893dc7", element="6fdbf68b-ca75-dd49-9375-79cb13390bc3")>
+11/07/2017 12:39:12 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : .//button[contains(text(),'Post')] to be clickable
+11/07/2017 12:39:12 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:39:12 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 12:39:12 AM - BlogPage - INFO: Element not found with locator:  locatorType: 
+11/07/2017 12:39:12 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 12:39:12 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:42:13 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:42:13 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:42:15 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:42:20 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:42:20 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:42:30 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:42:30 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:42:30 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f654c36-f12c-0e41-a381-76da386fc8cd", element="e07a80b7-5c95-3c4e-897c-64fe9044f1aa")>
+11/07/2017 12:42:30 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:42:30 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:42:38 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:42:38 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:42:38 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f654c36-f12c-0e41-a381-76da386fc8cd", element="1232d121-bd6c-2346-91db-edb86cc97150")>
+11/07/2017 12:42:39 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:42:39 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f654c36-f12c-0e41-a381-76da386fc8cd", element="bb4ecb2f-c5d5-2e45-9ba6-abd9d9f03a18")>
+11/07/2017 12:42:39 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:42:44 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:42:44 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:42:44 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:42:44 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:42:44 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:42:44 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f654c36-f12c-0e41-a381-76da386fc8cd", element="f330ce65-da56-7d4d-ab7f-379d4120830d")>
+11/07/2017 12:42:44 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:42:44 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:42:44 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f654c36-f12c-0e41-a381-76da386fc8cd", element="e956bb7b-8ab5-894b-9622-ecd7af97a746")>
+11/07/2017 12:42:44 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:42:44 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 12:42:44 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8f654c36-f12c-0e41-a381-76da386fc8cd", element="fa67ab06-a4fe-ef4a-b0c9-5b1766dbe42b")>
+11/07/2017 12:42:46 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:44:07 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:44:07 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:44:22 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:44:27 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:44:27 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:44:37 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:44:37 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:44:37 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="56749cbb-fb41-a74e-9b5b-203349f3619c", element="e2b38f01-28d3-3944-955e-f6c8cbd0fcc5")>
+11/07/2017 12:44:37 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:44:37 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:44:45 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:44:45 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:44:45 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="56749cbb-fb41-a74e-9b5b-203349f3619c", element="ad8c073e-9af6-d445-a96d-7a4a24ab534e")>
+11/07/2017 12:44:46 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:44:46 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="56749cbb-fb41-a74e-9b5b-203349f3619c", element="fd3e0d04-0a14-f241-a572-8f4fd37c63d1")>
+11/07/2017 12:44:46 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:44:51 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:44:51 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:44:51 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:44:51 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:44:51 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:44:51 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="56749cbb-fb41-a74e-9b5b-203349f3619c", element="4ebbb51b-dd3c-144c-9af4-edb7a7f952ff")>
+11/07/2017 12:44:51 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:44:51 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:44:51 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="56749cbb-fb41-a74e-9b5b-203349f3619c", element="40a48071-d94b-9e43-a3bf-bc26b9f3cc54")>
+11/07/2017 12:44:51 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:44:51 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 12:44:51 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="56749cbb-fb41-a74e-9b5b-203349f3619c", element="f34d4f28-107f-df4c-8192-41675969303c")>
+11/07/2017 12:44:56 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:46:25 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:46:25 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:46:27 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:46:32 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:46:32 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:46:42 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:46:42 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:46:42 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="047786e9-9263-774c-b217-1b950c2ef833", element="90f06cc7-28f5-5442-808a-0cdab7d581a6")>
+11/07/2017 12:46:43 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:46:43 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:46:51 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:46:51 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:46:51 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="047786e9-9263-774c-b217-1b950c2ef833", element="a60d2b72-fb8f-684f-9b3c-4e0fd5afd2f1")>
+11/07/2017 12:46:56 AM - BlogPage - INFO: Element not found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:47:01 AM - BlogPage - INFO: Element not found with locator:  locatorType: Name
+11/07/2017 12:47:01 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 12:47:01 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:47:47 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:47:47 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:47:49 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:47:54 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:47:54 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:48:04 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:48:04 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:48:04 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6b3b86ba-13e9-6344-83ba-a5d617026381", element="2a8996a3-eeca-274f-9229-5b42fd398cb0")>
+11/07/2017 12:48:04 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:48:04 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:48:12 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:48:12 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:48:12 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6b3b86ba-13e9-6344-83ba-a5d617026381", element="da9b8233-0004-dd4c-a67c-5dcca4cd16f2")>
+11/07/2017 12:48:18 AM - BlogPage - INFO: Element not found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:48:23 AM - BlogPage - INFO: Element not found with locator:  locatorType: Name
+11/07/2017 12:48:23 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 12:48:23 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:50:56 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:50:56 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:50:58 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:51:03 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:51:03 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:51:13 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:51:13 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:51:13 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fc1020a1-77a3-1d48-83ad-00f5cecde5b8", element="6214f66d-0840-7f47-9b19-d41c1b3a4717")>
+11/07/2017 12:51:13 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:51:13 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:51:21 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:51:21 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:51:21 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fc1020a1-77a3-1d48-83ad-00f5cecde5b8", element="233588a5-14f8-f144-bd76-6303a1077615")>
+11/07/2017 12:51:21 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:51:21 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fc1020a1-77a3-1d48-83ad-00f5cecde5b8", element="a51ffae1-fae6-294a-bf01-443fe22bf73b")>
+11/07/2017 12:51:22 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:51:27 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:51:27 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:51:27 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:51:27 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:51:27 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:51:27 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fc1020a1-77a3-1d48-83ad-00f5cecde5b8", element="ba48ad91-df64-504f-9fa7-09d29a984857")>
+11/07/2017 12:51:27 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:51:27 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:51:27 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fc1020a1-77a3-1d48-83ad-00f5cecde5b8", element="25334aa4-cdab-654e-a654-00afd52692bd")>
+11/07/2017 12:51:27 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:51:27 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 12:51:27 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fc1020a1-77a3-1d48-83ad-00f5cecde5b8", element="a9133d50-e44e-c248-9623-b61a09fc65b4")>
+11/07/2017 12:51:32 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:52:48 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:52:48 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:52:50 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:52:55 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:52:55 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:53:05 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:53:05 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:53:05 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0318992a-f0c2-2b48-9bf5-724e084e1f98", element="60c6cbf4-20e9-8147-add5-7ec971c7cca5")>
+11/07/2017 12:53:06 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:53:06 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:53:14 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:53:14 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:53:14 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0318992a-f0c2-2b48-9bf5-724e084e1f98", element="d4861c43-caa2-5440-a6a5-a4a6786b4a1b")>
+11/07/2017 12:53:14 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:53:14 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0318992a-f0c2-2b48-9bf5-724e084e1f98", element="6bc2c4f3-4164-e243-8922-48d6929a9a5c")>
+11/07/2017 12:53:14 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:53:19 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:53:19 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:53:19 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:53:19 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:53:19 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:53:19 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0318992a-f0c2-2b48-9bf5-724e084e1f98", element="6cfdc068-a17d-cd46-b9c6-ac00700643d2")>
+11/07/2017 12:53:20 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:53:20 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:53:20 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0318992a-f0c2-2b48-9bf5-724e084e1f98", element="acd04898-7c87-364c-b12f-9795d2d3381a")>
+11/07/2017 12:53:20 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:53:20 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 12:53:20 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0318992a-f0c2-2b48-9bf5-724e084e1f98", element="2ffa40b3-b9bc-534d-aec1-0684aa3a33f5")>
+11/07/2017 12:53:22 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 12:54:45 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 12:54:45 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 12:54:46 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 12:54:51 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 12:54:51 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 12:55:01 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 12:55:01 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 12:55:01 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1b6374bc-1e47-d542-be52-789b4b70c213", element="0fd60679-79f2-7648-82c8-2b609d3394ab")>
+11/07/2017 12:55:02 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 12:55:02 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 12:55:10 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 12:55:10 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 12:55:10 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1b6374bc-1e47-d542-be52-789b4b70c213", element="fd50a684-515c-474e-be98-79b65eef2314")>
+11/07/2017 12:55:10 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 12:55:10 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1b6374bc-1e47-d542-be52-789b4b70c213", element="356fdecd-76e9-c64e-a8a9-02fd91064e17")>
+11/07/2017 12:55:10 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 12:55:16 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 12:55:16 AM - BlogPage - INFO: Switching back to parent window : 2147483649
+11/07/2017 12:55:16 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 12:55:16 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 12:55:16 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 12:55:16 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 12:55:16 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1b6374bc-1e47-d542-be52-789b4b70c213", element="b1209164-875d-f145-b3e5-0a486e52c490")>
+11/07/2017 12:55:16 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 12:55:16 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 12:55:16 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1b6374bc-1e47-d542-be52-789b4b70c213", element="54ffbded-9254-8544-81b9-0903a4f775f8")>
+11/07/2017 12:55:16 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 12:55:16 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 12:55:16 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1b6374bc-1e47-d542-be52-789b4b70c213", element="ef00b166-02c0-8e4d-b498-93661c4acf89")>
+11/07/2017 12:55:17 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 01:13:41 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 01:13:41 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 01:13:43 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 01:13:48 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 01:13:48 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 01:13:58 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 01:13:58 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 01:13:58 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8e8dc477-0aec-9a40-bdcf-f71a74016d33", element="4b23fa32-1f0e-df42-939b-dcfabde1a150")>
+11/07/2017 01:13:58 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 01:13:58 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 01:14:06 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 01:14:06 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 01:14:06 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 01:14:06 AM - BlogPage - INFO: Element not found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: 
+11/07/2017 01:14:06 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 01:14:06 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 01:14:34 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 01:14:34 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 01:14:36 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 01:14:41 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 01:14:41 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 01:14:51 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 01:14:51 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 01:14:51 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e1dfd275-48b7-1444-9a4f-73644ef8a599", element="87dea73b-c168-9b46-a249-ed3c46a79495")>
+11/07/2017 01:14:51 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 01:14:51 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 01:14:59 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 01:14:59 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 01:14:59 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 01:14:59 AM - BlogPage - INFO: Element not found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: 
+11/07/2017 01:14:59 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 01:14:59 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 01:16:20 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 01:16:20 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 01:16:22 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 01:16:27 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 01:16:27 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 01:16:37 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 01:16:37 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 01:16:37 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="68a3ae42-434a-1240-9613-d65ef291b4bd", element="1720dd70-c6d0-b844-bc23-23d27b0cc46d")>
+11/07/2017 01:16:38 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 01:16:38 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 01:16:46 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 01:16:46 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 01:16:46 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="68a3ae42-434a-1240-9613-d65ef291b4bd", element="30cefc12-fe1a-324f-a294-f55812a180e8")>
+11/07/2017 01:16:46 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 01:16:46 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="68a3ae42-434a-1240-9613-d65ef291b4bd", element="cd415070-495f-d545-82fa-c1e553884ef9")>
+11/07/2017 01:16:47 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 01:16:52 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 01:16:52 AM - BlogPage - INFO: Switching back to parent window : 2147483649
+11/07/2017 01:16:52 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : login to be clickable
+11/07/2017 01:16:52 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 01:16:52 AM - BlogPage - INFO: Facebook Popup Displayed and accessed 
+11/07/2017 01:16:52 AM - BlogPage - INFO: Element found with locator: email locatorType: Id
+11/07/2017 01:16:52 AM - BlogPage - INFO: Entering text : abi0lwaz@yahoo.com to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="68a3ae42-434a-1240-9613-d65ef291b4bd", element="63d6e207-fd1c-1848-babc-0c1e787ac9fc")>
+11/07/2017 01:16:52 AM - BlogPage - INFO: Entered "abi0lwaz@yahoo.com" at element with locator: "email" locatorType: "id"
+11/07/2017 01:16:52 AM - BlogPage - INFO: Element found with locator: pass locatorType: Id
+11/07/2017 01:16:52 AM - BlogPage - INFO: Entering text : Assh0ole to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="68a3ae42-434a-1240-9613-d65ef291b4bd", element="baf845f7-54c4-bb4c-8b8e-2f2c7614660d")>
+11/07/2017 01:16:52 AM - BlogPage - INFO: Entered "Assh0ole" at element with locator: "pass" locatorType: "id"
+11/07/2017 01:16:52 AM - BlogPage - INFO: Element found with locator: login locatorType: Name
+11/07/2017 01:16:52 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="68a3ae42-434a-1240-9613-d65ef291b4bd", element="3967142d-8935-ad47-84fe-1a5778ee890d")>
+11/07/2017 01:16:53 AM - BlogPage - ERROR: Failed to enter comment
+11/07/2017 08:55:22 AM - BlogPage - INFO: Element found with locator: 24 hours in Washington D.C. locatorType: Link
+11/07/2017 08:55:22 AM - BlogPage - INFO: Getting attribute : for element : href
+11/07/2017 08:55:24 AM - Utils - INFO: Wait :: 5 seconds for Waiting for new page to load
+11/07/2017 08:55:29 AM - BlogPage - INFO: Performing comment to the blog
+11/07/2017 08:55:29 AM - Utils - INFO: Wait :: 10 seconds for Waiting for the frame element to get fully loaded
+11/07/2017 08:55:39 AM - BlogPage - INFO: Element found with locator: fb_ltr locatorType: Class
+11/07/2017 08:55:39 AM - BlogPage - INFO: Element found with locator: .//textarea locatorType: Xpath
+11/07/2017 08:55:39 AM - BlogPage - INFO: Entering text : Chikku-Test user likes to blog. The comment of the blog can be anything  to the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e6ae03a2-b426-2246-b0c8-767c2d43e2cb", element="ea242076-4ba4-964c-8af9-b48d7f95b84c")>
+11/07/2017 08:55:39 AM - BlogPage - INFO: Entered "Chikku-Test user likes to blog. The comment of the blog can be anything " at element with locator: "" locatorType: "xpath"
+11/07/2017 08:55:39 AM - Utils - INFO: Wait :: 8 seconds for Waiting  for Log In to Post button to appear
+11/07/2017 08:55:47 AM - BlogPage - INFO: Switching from window : 2147483649 to frame :fb_ltr
+11/07/2017 08:55:47 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Load 10 more')] locatorType: Xpath
+11/07/2017 08:55:47 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e6ae03a2-b426-2246-b0c8-767c2d43e2cb", element="88bd4fa0-0994-3c44-9bfb-5b00bbb83bca")>
+11/07/2017 08:55:47 AM - BlogPage - INFO: Element found with locator: .//button[contains(.,'Log In to Post')]/../.. locatorType: Xpath
+11/07/2017 08:55:47 AM - BlogPage - INFO: Clicking on the element : <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="e6ae03a2-b426-2246-b0c8-767c2d43e2cb", element="4be6b3a7-9ac9-3244-976a-9648d65d3581")>
+11/07/2017 08:55:48 AM - Utils - INFO: Wait :: 5 seconds for Waiting for the handlers to show up
+11/07/2017 08:55:53 AM - BlogPage - ERROR: Facebook popup not accessible
+11/07/2017 08:55:53 AM - BlogPage - INFO: Switching back to parent window : 2147483649
+11/07/2017 08:55:53 AM - BlogPage - INFO: Waiting for maximum :: 10 :: seconds for element : .//button[contains(text(),'Post')] to be clickable
+11/07/2017 08:55:53 AM - BlogPage - ERROR: Element not appeared after waiting 10 seconds
+11/07/2017 08:55:53 AM - BlogPage - INFO: Locator Type  not supported
+11/07/2017 08:55:53 AM - BlogPage - INFO: Element not found with locator:  locatorType: 
+11/07/2017 08:55:53 AM - BlogPage - INFO: Clicking on the element : None
+11/07/2017 08:55:53 AM - BlogPage - ERROR: Failed to enter comment
